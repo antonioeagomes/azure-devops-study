@@ -1,5 +1,5 @@
 import click
-var=
+
 @click.command(help="This is just a hello world.")
 @click.option("--name", prompt="Your name")
 @click.option("--color", prompt="A color")
